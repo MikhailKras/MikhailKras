@@ -18,7 +18,9 @@
 - 🎯 Seeking backend development opportunities.
 - 📧 Connect with me on [Telegram](https://t.me/Terabium) or [Gmail](mailto:mikhailkrasovitskiy@gmail.com).
 
+### Main project
 
+<a href="https://github.com/MikhailKras/weather-buddy"><img src="https://github-readme-stats.vercel.app/api/pin/?username=MikhailKras&repo=weather-buddy&theme=dark" /></a>
 
 # My Skills
 
