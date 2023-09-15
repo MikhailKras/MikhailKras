@@ -22,6 +22,8 @@
 
 <a href="https://github.com/MikhailKras/weather-buddy"><img src="https://github-readme-stats.vercel.app/api/pin/?username=MikhailKras&repo=weather-buddy&theme=dark" /></a>
 
+![GitHub Contributions Graph](https://github-readme-streak-stats.herokuapp.com/?user=MikhailKras&theme=dark)
+
 # My Skills
 
 #### Programming Languages
