@@ -20,7 +20,10 @@
 
 ### Main project
 
-<a href="https://github.com/MikhailKras/weather-buddy"><img src="https://github-readme-stats.vercel.app/api/pin/?username=MikhailKras&repo=weather-buddy&theme=dark" /></a>
+<div style="vertical-align: middle;">
+  <a href="https://github.com/MikhailKras/weather-buddy"><img src="https://github-readme-stats.vercel.app/api/pin/?username=MikhailKras&repo=weather-buddy&theme=dark" /></a>
+    <img src="https://github.com/MikhailKras/weather-buddy/blob/master/src/static/images/logo_weather_buddy_rounded.png" alt="WeatherBuddy Logo" width="120" height="120" style="border-radius: 50%;">
+</div>
 
 ![GitHub Contributions Graph](https://github-readme-streak-stats.herokuapp.com/?user=MikhailKras&theme=dark)
 
