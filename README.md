@@ -15,7 +15,6 @@
 ### About Me
 
 - 🚀 Backend Developer passionate about API interfaces and databases.
-- 🎯 Seeking backend development opportunities.
 - 📧 Connect with me on [Telegram](https://t.me/Terabium) or [Gmail](mailto:mikhailkrasovitskiy@gmail.com).
 
 ### My projects
